@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/20.4.27/miui_MIMIX3_20.4.27_8f7879221b_10.0.zip
-  ROM_NAME: MIUI
-  BUILD_TYPE: ab
+  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/meizu17/8.2.0.1/cn/20210422104521/f965bcad/update.zip
+  ROM_NAME: Flyme
+  BUILD_TYPE: Anoly
   TZ: Asia/Shanghai
 
 jobs:
